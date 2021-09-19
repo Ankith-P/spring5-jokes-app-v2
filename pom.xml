@@ -25,11 +25,12 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+	<!--Since i am using java 8, copied his code and created new package
 		<dependency>
 			<groupId>guru.springframework</groupId>
 			<artifactId>chuck-norris-for-actuator</artifactId>
 			<version>2.4.0</version>
-		</dependency>
+		</dependency>-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
